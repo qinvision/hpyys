@@ -31,7 +31,6 @@
             "changeable": 1
         },
         {
-            
             "key": "大奶子资源",
             "name": "🌀好朋友2┃线路",
             "type": 1,
@@ -42,14 +41,14 @@
             "ratio": 1.33
             }
         },
-          {
+        {
       "key": "暴風",
       "name": "暴風",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
-                    "categories": [
+      "categories": [
         "动作片",
         "喜剧片",
         "科幻片",
