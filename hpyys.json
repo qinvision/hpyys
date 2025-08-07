@@ -41,14 +41,6 @@
         "ratio": 1.33
       }
     },
-  {
-  "key": "桃花源",
-  "name": "🌀好朋友3┃线路",
-  "type": "rect",
-  "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
-  "searchable": 1,
-  "ratio": 1.33
-}
     {
       "key": "暴風",
       "name": "暴風",
