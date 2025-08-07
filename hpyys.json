@@ -36,25 +36,11 @@
             "type": 1,
             "api": "https://apidanaizi.com/api.php/provide/vod",
             "searchable": 1,
+            "style": {
             "type": "rect",
             "ratio": 1.33
+        }
         },
-        {
-             "key": "155",
-             "name": "155",
-             "type": "1",
-             "api": "https://155api.com/api.php/provide/vod/",
-             "searchable": "1",
-             "changeable": "1"
-        },
-            {
-      "key": "bp ",
-      "name": "白嫖 ",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php ",
-      "searchable": 1,
-      "changeable": 1
-    },
         {
       "key": "暴風",
       "name": "暴風",
