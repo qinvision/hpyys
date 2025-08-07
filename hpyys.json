@@ -295,6 +295,14 @@
       "changeable": 0,
       "timeout": 60
     },
+   {
+  "key": "155",
+  "name": "155",
+  "type": "3",
+  "api": "https://155api.com/api.php/provide/vod/",
+  "searchable": "1",
+  "changeable": "1"
+    },
     {
       "key": "看球",
       "name": "看球",
