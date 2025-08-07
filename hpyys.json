@@ -39,15 +39,14 @@
             "style": {
             "type": "rect",
             "ratio": 1.33
-        }
+        },
         {
              "key": "155",
              "name": "155",
-             "type": "3",
-             "api": "https://155api.com/api.php/provide/vod/?ac=list",
+             "type": "1",
+             "api": "https://155api.com/api.php/provide/vod/",
              "searchable": "1",
              "changeable": "1"
-        },
         },
             {
       "key": "bp ",
