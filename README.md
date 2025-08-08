@@ -4,6 +4,12 @@
 
 https://ghfast.top/https://raw.githubusercontent.com/qinvision/hpy/refs/heads/main/hpyys.json
 
+
+https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt
+
+
+https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/hpydy/refs/heads/main/hpydy.txt
+
 ## ⚙️GitHub加速站 
 - https://gh-proxy.com/
 - https://mirror.ghproxy.com/
