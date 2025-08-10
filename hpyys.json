@@ -1,15 +1,8 @@
+
 {
-  "spider": "./tvbox.jar",
-  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747813141071/20250521_153801.gif",
-  "wallpaper": "https://t.alcy.cc/acg",
-  "warningText": "学习使用，资源来源于网络，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
-  "lives": [
-    {
-      "name": "✨好朋友✨",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/qinvision/hpydy/refs/heads/main/hpydy.txt"
-    }
-  ],
+  "spider": "",
+  "logo": "./logo/hunter.gif",
+  "wallpaper": "./imgs/Y3.webp",
   "sites": [
     {
       "key": "克隆合集",
@@ -265,6 +258,11 @@
   ],
   "lives": [
     {
+       "name": "✨好朋友✨",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/qinvision/Film20250729/refs/heads/main/20250729.txt"
+    },
+    {
       "name": "MQiTV>jar",
       "api": "csp_MQiTV",
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date",
@@ -359,4 +357,3 @@
     }
   ]
 }
-
