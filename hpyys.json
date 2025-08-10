@@ -256,11 +256,11 @@
     }
   ],
   "lives": [
-            {
-            "name": "✨好朋友✨",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt"
-        }
+    {
+      "name": "✨好朋友✨",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt"
+    },
     {
       "name": "MQiTV>jar",
       "api": "csp_MQiTV",
