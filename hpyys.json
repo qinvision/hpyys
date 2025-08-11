@@ -27,31 +27,6 @@
       },
       "changeable": 1
     },
-   {
-      "key": "💞大地资源💞",
-      "name": "💞大地资源💞",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php",
-      "searchable": 0,
-      "quickSearch": 0
-    }, 
-    {
-      "key": "gdlsE",
-      "name": "香奶儿资源",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },   
-    {
-      "key": "💞白嫖资源💞",
-      "name": "💞白嫖资源💞",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },    
     {
       "key": "lav",
       "name": "(T.z)lav 𒉽",
@@ -166,33 +141,6 @@
         "type": "rect",
         "ratio": 1.49
       },
-      "api": "csp_GM",
-      "ext": {
-        "userScript": "./py^js/missav.user.js",
-        "debug": false,
-        "webViewSettings": {
-          "blockNetworkImage": true,
-          "blockList": [
-            "*.ico",
-            "*.png",
-            "*.css",
-            "*.svg",
-            "https://*.cloudflareinsights.com/*",
-            "https://*.googletagmanager.com/*",
-            "https://*.ktkjmp.com/*",
-            "https://*.magsrv.com/*",
-            "https://*.mnaspm.com/*",
-            "https://*.myavlive.com/*",
-            "https://*.recombee.com/*",
-            "https://*.rmhfrtnd.com/*",
-            "https://*.trackwilltrk.com/*",
-            "https://*.tsyndicate.com/*",
-            "https://missav.com/fonts/*",
-            "https://tsyndicate.com/*",
-            "https://hartattenuate.com/*"
-          ]
-        },
-    {    
       "api": "csp_GM",
       "ext": {
         "userScript": "./py^js/missav.user.js",
