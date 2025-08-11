@@ -34,7 +34,15 @@
       "api": "https://dadiapi.com/api.php",
       "searchable": 0,
       "quickSearch": 0
-    },    
+    }, 
+     {
+      "key": "💞香奶儿资源💞",
+      "name": "💞香奶儿资源💞",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },   
     {
       "key": "lav",
       "name": "(T.z)lav 𒉽",
