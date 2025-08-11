@@ -153,14 +153,45 @@
       "changeable": 0
     },
     {
-      "key": "KpgxdyE",
-      "name": "黄AV资源(已修复)",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "searchable": 1,
+      "key": "missav2",
+      "name": "(T.z)missav2 𒉽",
+      "jar": "./jar/𒉽.jar;md5;875ce871703d1c382e0498711b9d3ba0",
+      "type": 3,
       "quickSearch": 1,
-      "filterable": 1
-    },
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.49
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "./py^js/missav.user.js",
+        "debug": false,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockList": [
+            "*.ico",
+            "*.png",
+            "*.css",
+            "*.svg",
+            "https://*.cloudflareinsights.com/*",
+            "https://*.googletagmanager.com/*",
+            "https://*.ktkjmp.com/*",
+            "https://*.magsrv.com/*",
+            "https://*.mnaspm.com/*",
+            "https://*.myavlive.com/*",
+            "https://*.recombee.com/*",
+            "https://*.rmhfrtnd.com/*",
+            "https://*.trackwilltrk.com/*",
+            "https://*.tsyndicate.com/*",
+            "https://missav.com/fonts/*",
+            "https://tsyndicate.com/*",
+            "https://hartattenuate.com/*"
+          ]
+        },
     {    
       "api": "csp_GM",
       "ext": {
