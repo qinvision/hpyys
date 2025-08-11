@@ -153,19 +153,14 @@
       "changeable": 0
     },
     {
-      "key": "missav2",
-      "name": "(T.z)missav2 𒉽",
-      "jar": "./jar/𒉽.jar;md5;875ce871703d1c382e0498711b9d3ba0",
-      "type": 3,
-      "quickSearch": 1,
+      "key": "KpgxdyE",
+      "name": "黄AV资源(已修复)",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "style": {
-        "type": "rect",
-        "ratio": 1.49
-      },
+      "quickSearch": 1,
+      "filterable": 1
+    },
       "api": "csp_GM",
       "ext": {
         "userScript": "./py^js/missav.user.js",
