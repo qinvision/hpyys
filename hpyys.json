@@ -27,14 +27,7 @@
       },
       "changeable": 1
     },
-    {
-      "key": "J91",
-      "name": "\uD83D\uDD1E 91 | 珍惜",
-      "type": 3,
-      "api": "csp_J91",
-      "searchable": 1,
-      "filterable": 1
-    },
+{"key": "*AIvin","name": "*🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
     {
       "key": "Cg51",
       "name": "\uD83D\uDD1E 51吃瓜 | 图密√",
@@ -44,20 +37,16 @@
       "filterable": 1
     },
     {
-      "key": "MiMei",
-      "name": "\uD83D\uDD1E 迷妹 | 珍惜",
-      "type": 3,
-      "api": "csp_MiMei",
-      "searchable": 1,
-      "filterable": 1
+      "key": "大地资源",
+      "name": "❤大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php/"
     },
     {
-      "key": "HiPianZhiBo",
-      "name": "\uD83D\uDD1E 嗨片直播 | 视频",
-      "type": 3,
-      "api": "csp_HiPianZhiBo",
-      "searchable": 1,
-      "filterable": 1
+      "key": "乐播",
+      "name": "❤乐播",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "美少女",
@@ -105,13 +94,13 @@
       "filterable": 0
     },
     {
-      "key": "zp059",
-      "name": "🔞番号资源",
+      "key": "白嫖",
+      "name": "❤白嫖",
       "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+      "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "zp066",
