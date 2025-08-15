@@ -95,15 +95,6 @@
       "filterable": 0
     },
     {
-      "key": "zp123",
-      "name": "🔞色猫资源（慢）",
-      "type": 0,
-      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "*乐播资源",
       "name": "🔞乐播资源",
       "type": 1,
@@ -129,15 +120,6 @@
       "quickSearch": 0
     },
     {
-      "key": "bttcj.com",
-      "name": "成人04",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "💞番号资源💞",
       "name": "💞番号资源💞",
       "type": 1,
@@ -152,15 +134,6 @@
       "api": "https://apittzy.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "feifei67.com",
-      "name": "成人22",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
     },
     {
       "key": "💞老鸭资源💞",
@@ -179,30 +152,12 @@
       "quickSearch": 0
     },
     {
-      "key": "msnii.com",
-      "name": "成人46",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "💞大地资源💞",
       "name": "💞大地资源💞",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "apittzy.com",
-      "name": "成人47",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
     },
     {
       "key": "💞香奶儿资源💞",
