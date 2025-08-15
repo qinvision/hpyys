@@ -29,14 +29,6 @@
     },
 {"key": "*AIvin","name": "*🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
     {
-      "key": "Cg51",
-      "name": "\uD83D\uDD1E 51吃瓜 | 图密√",
-      "type": 3,
-      "api": "csp_Cg51",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "大地资源",
       "name": "❤大地资源",
       "type": 0,
@@ -71,24 +63,6 @@
       "name": "🔞美少女资源",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "zp024",
-      "name": "🔞BT天堂-伦理",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*KK写真资源",
-      "name": "🔞KK写真资源-伦理",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
