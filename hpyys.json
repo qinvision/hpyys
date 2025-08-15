@@ -268,22 +268,6 @@
             "https://*.pemsrv.com/*"
           ]
         },
-        "spider": {
-          "homeContent": {
-            "loadUrl": "https://xojav.tv/?lang=zh"
-          },
-          "categoryContent": {
-            "loadUrl": "https://xojav.tv/${tid}${sort_by:-}&mode=async&function=get_block&from=${pg:-1}"
-          },
-          "detailContent": {
-            "loadUrl": "https://xojav.tv/videos/${id}"
-          },
-          "searchContent": {
-            "loadUrl": "https://xojav.tv/search/${key}/?mode=async&function=get_block&sort_by=most_relevant&from_videos=${pg:-1}"
-          }
-        }
-      }
-    },
         {
       "key": "AiDou",
       "name": "(T.z)AiDou 𒉽",
@@ -297,6 +281,7 @@
         "type": "rect",
         "ratio": 1.5
       }
+     }      
   ],
   "lives": [
     {
@@ -355,19 +340,6 @@
       "ext": {},
       "header": {
         "Referer": "https://p.m82xg4z0cdbz7.com"
-      }
-    },
-    {
-      "name": "(T.z)FreesHot>py",
-      "type": 3,
-      "api": "./py^js/live_freeshot.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "proxy": {},
-        "plp": ""
       }
     },
     {
