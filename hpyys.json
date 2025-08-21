@@ -86,15 +86,6 @@
       "filterable": 0
     },
     {
-      "key": "zp123",
-      "name": "🔞色猫资源（慢）",
-      "type": 0,
-      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "*乐播资源",
       "name": "🔞乐播资源",
       "type": 1,
@@ -116,31 +107,6 @@
       "name": "💞番号资源💞",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "💞探探资源💞",
-      "name": "💞探探资源💞",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "feifei67.com",
-      "name": "成人22",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "💞老鸭资源💞",
-      "name": "💞老鸭资源💞",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -170,34 +136,12 @@
       "quickSearch": 0
     },
     {
-      "key": "apittzy.com",
-      "name": "成人47",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "💞香奶儿资源💞",
       "name": "💞香奶儿资源💞",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "javxx",
-      "name": "(T.z)javxx 𒉽",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "api": "./py^js/javxx.py",
-      "ext": {
-        "proxy": {},
-        "plp": ""
-      }
     },
     {
       "key": "BadNews",
