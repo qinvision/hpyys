@@ -30,13 +30,13 @@
 {"key": "*AIvin","name": "*🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
     {
       "key": "大地资源",
-      "name": "❤大地资源",
+      "name": "🔞大地资源",
       "type": 0,
       "api": "https://dadiapi.com/api.php/"
     },
     {
       "key": "乐播",
-      "name": "❤乐播",
+      "name": "🔞乐播",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml"
     },
@@ -69,7 +69,7 @@
     },
     {
       "key": "白嫖",
-      "name": "❤白嫖",
+      "name": "🔞白嫖",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -96,7 +96,7 @@
     },
     {
       "key": "💞美少女资源💞",
-      "name": "💞美少女资源💞",
+      "name": "🔞美少女资源",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 0,
@@ -104,7 +104,7 @@
     },
     {
       "key": "💞番号资源💞",
-      "name": "💞番号资源💞",
+      "name": "🔞番号资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -112,7 +112,7 @@
     },
     {
       "key": "💞乐播资源💞",
-      "name": "💞乐播资源💞",
+      "name": "🔞乐播资源",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -129,7 +129,7 @@
     },
     {
       "key": "💞大地资源💞",
-      "name": "💞大地资源💞",
+      "name": "🔞大地资源",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "searchable": 0,
@@ -137,7 +137,7 @@
     },
     {
       "key": "💞香奶儿资源💞",
-      "name": "💞香奶儿资源💞",
+      "name": "🔞香奶儿资源",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 0,
@@ -145,7 +145,7 @@
     },
     {
       "key": "BadNews",
-      "name": "(T.z)BadNews 𒉽",
+      "name": "🔞(T.z)BadNews 𒉽",
       "type": 4,
       "api": "https://py.doube.eu.org/spider?site=BadNews",
       "searchable": 1,
@@ -159,7 +159,7 @@
     },
     {
       "key": "jable",
-      "name": "(T.z)Jable 𒉽",
+      "name": "🔞(T.z)Jable 𒉽",
       "jar": "./jar/𒉽.jar",
       "type": 3,
       "quickSearch": 1,
@@ -212,7 +212,7 @@
     },
         {
       "key": "missav",
-      "name": "(T.z)missav 𒉽",
+      "name": "🔞(T.z)missav 𒉽",
       "type": 4,
       "api": "https://py.doube.eu.org/spider?site=Miss",
       "searchable": 1,
@@ -222,7 +222,7 @@
     },
     {
       "key": "missav2",
-      "name": "(T.z)missav2 𒉽",
+      "name": "🔞(T.z)missav2 𒉽",
       "jar": "./jar/𒉽.jar;md5;875ce871703d1c382e0498711b9d3ba0",
       "type": 3,
       "quickSearch": 1,
@@ -278,7 +278,7 @@
     },
     {
       "key": "XOJAV",
-      "name": "(T.z)xojav 𒉽",
+      "name": "🔞(T.z)xojav 𒉽",
       "jar": "./jar/𒉽.jar;md5;875ce871703d1c382e0498711b9d3ba0",
       "type": 3,
       "quickSearch": 1,
@@ -325,7 +325,7 @@
     },
         {
       "key": "AiDou",
-      "name": "(T.z)AiDou 𒉽",
+      "name": "🔞(T.z)AiDou 𒉽",
       "type": 4,
       "api": "https://py.doube.eu.org/spider?site=AiDou",
       "searchable": 1,
@@ -339,7 +339,7 @@
     },
         {
       "key": "rou",
-      "name": "(T.z)Rou 𒉽",
+      "name": "🔞(T.z)Rou 𒉽",
       "type": 3,
       "api": "https://d.kstore.dev/download/14756/python/vod_rou.py",
       "searchable": 1,
@@ -352,7 +352,7 @@
     {
       "name": "✨好朋友✨",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/hpydy/refs/heads/main/hpydy.txt"
     },
     {
       "name": "MQiTV>jar",
