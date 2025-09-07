@@ -27,7 +27,7 @@
       },
       "changeable": 1
     },
-{"key": "*AIvin","name": "*🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
+{"key": "*AIvin","name": "🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
     {
       "key": "大地资源",
       "name": "🔞大地资源",
@@ -54,15 +54,6 @@
       "name": "🔞淫水机",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*美少女资源",
-      "name": "🔞美少女资源",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -120,7 +111,7 @@
     },
     {
       "key": "msnii.com",
-      "name": "成人46",
+      "name": "🔞成人46",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "quickSearch": 1,
