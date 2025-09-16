@@ -27,18 +27,6 @@
       },
       "changeable": 1
     },
-    {
-  "name": "migu_video",
-  "lockfileVersion": 3,
-  "requires": true,
-  "packages": {
-    "": {
-      "name": "migu_video",
-      "dependencies": {
-        "axios": "^1.9.0",
-        "crypto-js": "^4.2.0"
-      }
-    },
 {"key": "*AIvin","name": "🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
     {
       "key": "大地资源",
